@@ -1,2 +1,2 @@
-# emmanuel_branch
-Emmanuel Branch for DevOps module Assessment 1
+# emmanuel_repo
+Emmanuel repo for DevOps module Assessment 1
